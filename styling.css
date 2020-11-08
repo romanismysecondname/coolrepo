@@ -12,3 +12,8 @@ button {
   max-width: 1200px;
   padding: 0 1rem;
 }
+
+img {
+  display: inline-block;
+  width: 100%;
+}
