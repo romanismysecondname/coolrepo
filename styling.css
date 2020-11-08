@@ -4,6 +4,15 @@ html {
   padding: 0;
 }
 
+button {
+  padding: 1rem;
+}
+
+.container {
+  max-width: 1200px;
+  padding: 0 1rem;
+}
+
 img {
   display: inline-block;
   width: 100%;
